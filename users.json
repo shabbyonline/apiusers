@@ -9,9 +9,15 @@
     },
     {
       "id": "2",
+<<<<<<< Updated upstream
       "employee_name": "Sakina Shabbir",
       "employee_age": "30",
       "employee_salary": "170755"
+=======
+      "employee_name": "Sakina Shabbir 12",
+      "employee_age": "30",
+      "employee_salary": "170756"
+>>>>>>> Stashed changes
     },
     {
       "id": "3",
